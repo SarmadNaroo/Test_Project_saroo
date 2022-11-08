@@ -5,4 +5,5 @@ function trimString(x) {
 }
 
 const result = trimString('   saroo test    ');
+console.log("saqlain feature3")
 console.log(result);
